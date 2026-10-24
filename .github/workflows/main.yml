@@ -33,5 +33,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: inspire-official-video
-          path: inspire_official.mp4
+          path: "inspire official.mp4"
           if-no-files-found: error
