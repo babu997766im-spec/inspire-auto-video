@@ -4,9 +4,13 @@ channel_name = "Inspire Official"
 
 motivational_script = """
 Never give up on your dreams.
+
 Your struggles are not the end of your story.
+
 Every small step takes you closer to your goal.
+
 Stay patient, keep learning, and believe in yourself.
+
 Your future can be better than your past.
 """
 
